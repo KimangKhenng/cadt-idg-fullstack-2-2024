@@ -1,5 +1,7 @@
 # D1 S4: Vue 3 Project using Vue CLI
 
+Watch video: https://youtu.be/xDlpPaqaugo
+
 In this tutorial, we'll walk through the steps to bootstrap a Vue 3 project using Vue CLI (Command Line Interface). Vue CLI is a standard tooling for Vue.js development, providing a set of pre-configured build setups and a user-friendly command-line interface.
 
 ## Prerequisites
