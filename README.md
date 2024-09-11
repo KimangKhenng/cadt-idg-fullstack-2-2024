@@ -6,7 +6,7 @@ We're thrilled to have you join us on this exciting journey of exploration, lear
 
 - Frontend : Vue.js 
   - [Bootstrapping Node.js](/bootstrap_vue.md)
-  - [Resources]()
+  - [Resources](https://drive.google.com/drive/folders/13ZhYl3iOfmEH-YDrOGgbeFjw6SIb-Btp?usp=sharing)
   - D1 (Vue Widget, Vue SPA)
     - [#1 Getting Started with Vue 3 as Widget (CDN)](/Modules/Frontend/D1/S1/guide.md)
     - [#2  Creating a Small Project with Vue 3 as Widget (CDN)](/Modules/Frontend/D1/S2/guide.md)
