@@ -1,5 +1,7 @@
 # D1 S1: Getting Started with Vue 3 as Widget (CDN)
 
+Watch video: https://youtu.be/7GEkmwzN_Ww
+
 In this exercise, we'll be using Vue 3 as a CDN to understand some fundamental concepts. Ensure you have a basic understanding of HTML and JavaScript before proceeding.
 
 ## Setting Up Vue CDN
