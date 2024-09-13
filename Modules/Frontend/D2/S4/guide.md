@@ -1,5 +1,7 @@
 # D2 S4: Apply Vue Router
 
+Watch video: https://youtu.be/xY-ubR-iI64
+
 Please go back to [Session #2](/Modules/D2/S2/guide.md) and apply `vue-router` there to navigate page.
 
 ## Step 1: Install Vue Router
