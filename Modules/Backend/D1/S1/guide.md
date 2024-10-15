@@ -1,6 +1,6 @@
 # D1 S1 : Introduction to Express.js
 
-Watch recorded class: https://youtu.be/JqE0kQcol-8
+Watch recorded class: https://youtu.be/sdcSYd0XsIc
 
 ## What is Express.js?
 

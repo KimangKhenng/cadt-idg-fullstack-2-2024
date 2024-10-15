@@ -1,6 +1,6 @@
 # D1 S3 : Express request's query and params
 
-Watch recorded class:https://youtu.be/eYHPtnCtRhs
+Watch recorded class: https://youtu.be/0RM31e6r_KA
 
 ## Request Params
 

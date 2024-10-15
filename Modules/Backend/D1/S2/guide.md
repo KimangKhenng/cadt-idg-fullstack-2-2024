@@ -1,6 +1,6 @@
 # D1 S2 : Express request's query and params
 
-Watch recorded class:https://youtu.be/s1UQJLjqJ8I
+Watch recorded class: https://youtu.be/R7h3RbbEPV8
 
 ## Running Express over HTTPS in localhost
 

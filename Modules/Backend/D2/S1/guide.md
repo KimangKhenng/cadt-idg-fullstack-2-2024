@@ -1,5 +1,7 @@
 # D2 S1 : Practice Create Update Update Delete (CRUD) in express.js
 
+Watch video: https://youtu.be/igyW1O3qU2E
+
 MongoDB is a popular NoSQL database that provides a flexible and scalable solution for storing and managing data. When using MongoDB with Express.js, Mongoose, an Object Data Modeling (ODM) library for MongoDB and Node.js, simplifies interaction with the database. In this tutorial, we'll cover how to set up MongoDB with Express.js using Mongoose.
 
 ## Introduction to NoSQL
