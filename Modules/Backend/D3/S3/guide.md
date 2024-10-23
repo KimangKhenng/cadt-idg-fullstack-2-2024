@@ -1,6 +1,6 @@
 # D3 S3: Improve JWT Login with Passport.js
 
-Watch recorded video: https://youtu.be/iai2HjzmmIE
+Watch recorded video: https://youtu.be/MwV4yhgKHp8
 
 ## What is Passport.js?
 [Passport.js](https://www.passportjs.org/) is an authentication middleware for Node.js that provides a simple and modular way to authenticate users in web applications. It supports various authentication strategies, including local username/password, OAuth, and OpenID, among others.

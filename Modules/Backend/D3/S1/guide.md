@@ -1,4 +1,4 @@
-# D3 S1 : Error Handling and MongoDB Query
+# D3 S1 : JSON Web Token
 
-Watch recorded video: https://www.youtube.com/watch?v=zDll2KksG1Q
-Code Repository: https://github.com/KimangKhenng/my-express-cadt
+Watch recorded video (1): https://youtu.be/4fABdcAm118
+Watch recorded video (2): https://youtu.be/vmVbq2oP1Xs

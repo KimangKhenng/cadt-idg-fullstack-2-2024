@@ -1,6 +1,6 @@
 # D3 S4: Validation via express-validate
 
-Watch recorded class: https://youtu.be/5PO42YjdZlY
+Watch recorded class: https://youtu.be/WXVr-46hj-I
 
 ## Introduction
 

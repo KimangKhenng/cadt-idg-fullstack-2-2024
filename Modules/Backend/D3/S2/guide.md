@@ -1,6 +1,7 @@
-# D3 S2: Authentication with Jso Web Token (JWT)
+# D3 S2: Auth With JWT
 
-Watch recoeded video: https://youtu.be/b9jaP3lJmNo
+Watch recorded video (1): https://youtu.be/4fABdcAm118
+Watch recorded video (2): https://youtu.be/vmVbq2oP1Xs
 
 ## What is JWT?
 A JSON Web Token (JWT) is a compact, URL-safe, and self-contained token format used for securely transmitting information between parties as a JSON object. JWTs are commonly used for authentication and information exchange in web applications and APIs. They consist of three parts separated by dots (`.`): the header, payload, and signature. Here's a breakdown of each part:
